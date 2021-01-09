@@ -1,8 +1,9 @@
 #!/bin/bash
 
 echo "$USER"
+greeting="welcome back"
 
-echo "Hello Students"
+echo "$greeting"
 
 echo "Hello again friends"
 
